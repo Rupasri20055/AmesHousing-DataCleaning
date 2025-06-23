@@ -21,7 +21,5 @@ What I did in this task:
 
 8. Finally saved the cleaned data into a new CSV file for later use.
 
-9. Plotted a heatmap to check correlations between different features — helps to know which ones are related.
 
-10. Also checked skewness for 'GrLivArea' and 'SalePrice' to see if any transformation might be needed later.
 
